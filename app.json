@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "onebithealth",
-    "slug": "onebithealth",
+    "name": "app-imc",
+    "slug": "app-imc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
